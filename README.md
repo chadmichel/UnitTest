@@ -1,4 +1,4 @@
-UnitTest
-========
+MEF_UnitTest
+============
 
-Basic example of unit tests and dependency injection
+Use MEF to handle mocking / dependency management for unit testing.
